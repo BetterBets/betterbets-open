@@ -1,6 +1,8 @@
 # betterbets-open
+---
 
 Open source data analysis for betting. Quite often throwaway models but may be interesting / useful for some =)
+
 ---
 ## CSGO-Networks
 Using PageRank algorithm and eigenvector centrality in to rank CS teams and players (starting with teams) over a given time period. Preliminary results are shown in the plot below. You can click and go into interactive graph (can gover over teams).
